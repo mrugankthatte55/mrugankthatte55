@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrugankthatte55&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrugankthatte55&show_icons=true&hide_title=true&hide=contribs)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrugankthatte55&layout=compact)
 ![GitHub streak](https://streak-stats.demolab.com?user=mrugankthatte55)
