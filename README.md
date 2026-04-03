@@ -9,14 +9,34 @@
 - Currently working on scalable multi client systems and developer friendly architecture
 
 ## Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrugankthatte55&theme=github_dark" alt="Profile Details" />
+    </td>
+   
+  </tr>
+  
+</table>
+<!-- <table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrugankthatte55&theme=github_dark" alt="Profile Details" />
+    </td>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrugankthatte55&theme=github_dark&utcOffset=-7" alt="Productive Time" />
+    </td>
+  </tr>
+</table> -->
+<!-- <table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrugankthatte55&theme=github_dark" alt="Profile Details" />
+    </td>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrugankthatte55&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table> -->
