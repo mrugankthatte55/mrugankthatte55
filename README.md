@@ -1,24 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mrugank</h1>
+<p align="center">
+  Software Engineer focused on backend systems, fullstack apps, and cloud infrastructure
+</p>
 
-<!--
-**mrugankthatte55/mrugankthatte55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Building production software with strong ownership across backend and frontend
+- Interested in distributed systems, platform engineering, and product driven fullstack work
+- Currently working on scalable multi client systems and developer friendly architecture
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrugankthatte55&show_icons=true&hide_title=true&hide=contribs)
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrugankthatte55&layout=compact)
-![GitHub streak](https://streak-stats.demolab.com?user=mrugankthatte55)
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrugankthatte55)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mrugankthatte55)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
